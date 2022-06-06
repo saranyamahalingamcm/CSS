@@ -1,0 +1,47 @@
+/**********************************  TAG SELECTOR   ***********************************/
+body{
+    margin: 0px;
+} 
+
+h2{
+    margin-top: 0%;
+}
+
+.header{
+    /* margin: auto;
+    width: 50%; */
+    
+    background-color:  #90E0EF; 
+    text-align: center;   
+    /* height: 200px;
+    width: 200px;
+     border: solid 10px;
+    padding: 20px; */
+    
+}
+.left {
+    display: inline;
+    background-color: rgb(29, 188, 140);
+    float: left;
+    width: 42%;
+  /*  height: 200px;
+    
+     border: solid 20px;*/
+    padding:4%;
+}
+
+.right{
+    display: inline;
+    background-color: rgb(150, 23, 210);
+    float: right;
+    width: 42%;
+    padding:4%;
+    height: 108px;
+/*     
+    border: solid 10px;
+    margin-left: 69.8%; */
+}
+
+.text{
+    display: inline-block;
+}
